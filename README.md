@@ -14,3 +14,612 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Trlc.com</title>
+    <style>
+        body {
+            background-image: url('index2/background.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        .topics {
+            margin-top: 30px;
+        }
+
+        .topics h2 {
+            color: yellow;
+        }
+
+        .topics p {
+            font-size: 20px;
+        }
+
+        .banner {
+            font-size: 24px;
+            font-weight: bold;
+            text-decoration: underline;
+            color: cyan;
+        }
+
+        img {
+            margin-top: 20px;
+            width: 200px;
+        }
+
+        h1 {
+            color: red;
+            font-size: 40px;
+        }
+    </style>
+</head>
+<body>
+    <marquee class="banner">Welcome to Toiphangha Reang Learning Centre (TRLC)</marquee>
+    <hr>
+
+    <div class="topics">
+        <h2>Choose Your Topic</h2>
+        <p>TRIPURA GK / GS / CA</p>
+        <p>INDIAN POLITY</p>
+        <p>INDIAN GEOGRAPHY</p>
+    </div>
+
+    <h1>WELCOME TO THE DARK WEB</h1>
+
+    <img src="images/menu/images.png" alt="Menu Image">
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TRLC - Toiphangha Reang Learning Centre</title>
+    <style>
+        body {
+            background-image: url('index2/background.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: white;
+            text-align: center;
+        }
+
+        header {
+            background: rgba(0, 0, 0, 0.6);
+            padding: 20px;
+            border-bottom: 3px solid crimson;
+        }
+
+        header marquee {
+            font-size: 28px;
+            color: cyan;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        h1 {
+            color: #ff4444;
+            font-size: 48px;
+            margin-top: 20px;
+            text-shadow: 2px 2px black;
+        }
+
+        .topics {
+            background: rgba(0, 0, 0, 0.6);
+            margin: 40px auto;
+            padding: 30px;
+            width: 80%;
+            max-width: 600px;
+            border-radius: 15px;
+            box-shadow: 0 0 20px black;
+        }
+
+        .topics h2 {
+            color: gold;
+            margin-bottom: 20px;
+            font-size: 30px;
+            text-transform: uppercase;
+        }
+
+        .topics p {
+            font-size: 22px;
+            margin: 10px 0;
+            transition: transform 0.2s;
+        }
+
+        .topics p:hover {
+            color: lightgreen;
+            transform: scale(1.05);
+            cursor: pointer;
+        }
+
+        .image-container {
+            margin-top: 30px;
+        }
+
+        .image-container img {
+            width: 200px;
+            border-radius: 15px;
+            border: 2px solid white;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .image-container img:hover {
+            transform: scale(1.1) rotate(2deg);
+        }
+
+        footer {
+            margin-top: 40px;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.5);
+            color: #ccc;
+            font-size: 14px;
+        }
+
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 32px;
+            }
+
+            .topics h2 {
+                font-size: 24px;
+            }
+
+            .topics p {
+                font-size: 18px;
+            }
+
+            .image-container img {
+                width: 150px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <marquee behavior="alternate" scrollamount="10">Welcome to Toiphangha Reang Learning Centre (TRLC)</marquee>
+    </header>
+
+    <h1>WELCOME TO THE DARK WEB</h1>
+
+    <div class="topics">
+        <h2>Choose Your Topic</h2>
+        <p>Tripura GK / GS / Current Affairs</p>
+        <p>Indian Polity</p>
+        <p>Indian Geography</p>
+    </div>
+
+    <div class="image-container">
+        <img src="images/menu/images.png" alt="TRLC Logo or Icon">
+    </div>
+
+    <footer>
+        &copy; 2025 TRLC | Designed for Educational Purpose | Stay Curious, Keep Learning
+    </footer>
+
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TRLC - Toiphangha Reang Learning Centre</title>
+    <style>
+        body {
+            background-image: url('index2/background.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: white;
+            text-align: center;
+        }
+
+        header {
+            background: rgba(0, 0, 0, 0.6);
+            padding: 20px;
+            border-bottom: 3px solid crimson;
+        }
+
+        header marquee {
+            font-size: 28px;
+            color: cyan;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        h1 {
+            color: #ff4444;
+            font-size: 48px;
+            margin-top: 20px;
+            text-shadow: 2px 2px black;
+        }
+
+        .topics {
+            background: rgba(0, 0, 0, 0.6);
+            margin: 40px auto;
+            padding: 30px;
+            width: 80%;
+            max-width: 600px;
+            border-radius: 15px;
+            box-shadow: 0 0 20px black;
+        }
+
+        .topics h2 {
+            color: gold;
+            margin-bottom: 20px;
+            font-size: 30px;
+            text-transform: uppercase;
+        }
+
+        .topics p {
+            font-size: 22px;
+            margin: 10px 0;
+            transition: transform 0.2s;
+        }
+
+        .topics p:hover {
+            color: lightgreen;
+            transform: scale(1.05);
+            cursor: pointer;
+        }
+
+        /* Indian Polity Syllabus Dropdown */
+        details {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 20px;
+            text-align: left;
+            color: white;
+        }
+
+        summary {
+            font-size: 20px;
+            font-weight: bold;
+            color: #00ffcc;
+            cursor: pointer;
+            outline: none;
+        }
+
+        .syllabus ul {
+            margin-top: 10px;
+            padding-left: 20px;
+        }
+
+        .syllabus li {
+            font-size: 18px;
+            margin: 5px 0;
+        }
+
+        .image-container {
+            margin-top: 30px;
+        }
+
+        .image-container img {
+            width: 200px;
+            border-radius: 15px;
+            border: 2px solid white;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .image-container img:hover {
+            transform: scale(1.1) rotate(2deg);
+        }
+
+        footer {
+            margin-top: 40px;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.5);
+            color: #ccc;
+            font-size: 14px;
+        }
+
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 32px;
+            }
+
+            .topics h2 {
+                font-size: 24px;
+            }
+
+            .topics p {
+                font-size: 18px;
+            }
+
+            .image-container img {
+                width: 150px;
+            }
+
+            summary {
+                font-size: 18px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <marquee behavior="alternate" scrollamount="10">Welcome to Toiphangha Reang Learning Centre (TRLC)</marquee>
+    </header>
+
+    <h1>WELCOME TO THE DARK WEB</h1>
+
+    <div class="topics">
+        <h2>Choose Your Topic</h2>
+        <p>Tripura GK / GS / Current Affairs</p>
+        <p>Indian Polity</p>
+        <p>Indian Geography</p>
+
+        <!-- Indian Polity Syllabus Section -->
+        <details>
+            <summary>📘 Indian Polity Syllabus</summary>
+            <div class="syllabus">
+                <ul>
+                    <li>Constitutional Framework</li>
+                    <li>Fundamental Rights and Duties</li>
+                    <li>Directive Principles of State Policy</li>
+                    <li>Union Government: President, Prime Minister, Parliament</li>
+                    <li>State Government: Governor, CM, State Legislature</li>
+                    <li>Judiciary: Supreme Court, High Courts</li>
+                    <li>Center-State Relations</li>
+                    <li>Emergency Provisions</li>
+                    <li>Amendments in the Constitution</li>
+                    <li>Panchayati Raj and Municipalities</li>
+                    <li>Election Commission</li>
+                    <li>Important Articles and Schedules</li>
+                </ul>
+            </div>
+        </details>
+    </div>
+
+    <div class="image-container">
+        <img src="images/menu/images.png" alt="TRLC Logo or Icon">
+    </div>
+
+    <footer>
+        &copy; 2025 TRLC | Designed for Educational Purpose | Stay Curious, Keep Learning
+    </footer>
+
+</body>
+</html>
+
+
+
+.photo-right {
+    position: absolute;
+    top: 150px;
+    right: 20px;
+    width: 200px;
+    border: 3px solid white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.4);
+}
+
+.photo-right img {
+    width: 100%;
+    display: block;
+}
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TRLC - Toiphangha Reang Learning Centre</title>
+    <style>
+        body {
+            background-image: url('index2/background.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: white;
+            text-align: center;
+        }
+
+        header {
+            background: rgba(0, 0, 0, 0.6);
+            padding: 20px;
+            border-bottom: 3px solid crimson;
+        }
+
+        header marquee {
+            font-size: 28px;
+            color: cyan;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        h1 {
+            color: #ff4444;
+            font-size: 48px;
+            margin-top: 20px;
+            text-shadow: 2px 2px black;
+        }
+
+        .topics {
+            background: rgba(0, 0, 0, 0.6);
+            margin: 40px auto;
+            padding: 30px;
+            width: 80%;
+            max-width: 600px;
+            border-radius: 15px;
+            box-shadow: 0 0 20px black;
+        }
+
+        .topics h2 {
+            color: gold;
+            margin-bottom: 20px;
+            font-size: 30px;
+            text-transform: uppercase;
+        }
+
+        .topics p {
+            font-size: 22px;
+            margin: 10px 0;
+            transition: transform 0.2s;
+        }
+
+        .topics p:hover {
+            color: lightgreen;
+            transform: scale(1.05);
+            cursor: pointer;
+        }
+
+        /* Indian Polity Syllabus Dropdown */
+        details {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 20px;
+            text-align: left;
+            color: white;
+        }
+
+        summary {
+            font-size: 20px;
+            font-weight: bold;
+            color: #00ffcc;
+            cursor: pointer;
+            outline: none;
+        }
+
+        .syllabus ul {
+            margin-top: 10px;
+            padding-left: 20px;
+        }
+
+        .syllabus li {
+            font-size: 18px;
+            margin: 5px 0;
+        }
+
+        /* Group photo - top right */
+        .photo-top-right {
+            position: absolute;
+            top: 120px;
+            right: 20px;
+            width: 220px;
+            border: 3px solid white;
+            border-radius: 12px;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.4);
+        }
+
+        /* Fingerprint image - below the group photo */
+        .fingerprint {
+            position: absolute;
+            top: 360px;
+            right: 30px;
+            width: 140px;
+            border: 2px solid white;
+            border-radius: 8px;
+            box-shadow: 0 0 8px rgba(255, 255, 255, 0.3);
+        }
+
+        footer {
+            margin-top: 40px;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.5);
+            color: #ccc;
+            font-size: 14px;
+        }
+
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 32px;
+            }
+
+            .topics h2 {
+                font-size: 24px;
+            }
+
+            .topics p {
+                font-size: 18px;
+            }
+
+            .photo-top-right {
+                width: 150px;
+                top: 110px;
+                right: 10px;
+            }
+
+            .fingerprint {
+                width: 100px;
+                top: 270px;
+                right: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <marquee behavior="alternate" scrollamount="10">Welcome to Toiphangha Reang Learning Centre (TRLC)</marquee>
+    </header>
+
+    <h1>WELCOME TO THE DARK WEB</h1>
+
+    <div class="topics">
+        <h2>Choose Your Topic</h2>
+        <p>Tripura GK / GS / Current Affairs</p>
+        <p>Indian Polity</p>
+        <p>Indian Geography</p>
+
+        <!-- Indian Polity Syllabus Section -->
+        <details>
+            <summary>📘 Indian Polity Syllabus</summary>
+            <div class="syllabus">
+                <ul>
+                    <li>Constitutional Framework</li>
+                    <li>Fundamental Rights and Duties</li>
+                    <li>Directive Principles of State Policy</li>
+                    <li>Union Government: President, Prime Minister, Parliament</li>
+                    <li>State Government: Governor, CM, State Legislature</li>
+                    <li>Judiciary: Supreme Court, High Courts</li>
+                    <li>Center-State Relations</li>
+                    <li>Emergency Provisions</li>
+                    <li>Amendments in the Constitution</li>
+                    <li>Panchayati Raj and Municipalities</li>
+                    <li>Election Commission</li>
+                    <li>Important Articles and Schedules</li>
+                </ul>
+            </div>
+        </details>
+    </div>
+
+    <!-- Images on the right -->
+    <img src="group_photo.jpg" alt="TRLC Group Photo" class="photo-top-right">
+    <img src="index2.jpg" alt="Fingerprint" class="fingerprint">
+
+    <footer>
+        &copy; 2025 TRLC | Designed for Educational Purpose | Stay Curious, Keep Learning
+    </footer>
+
+</body>
+</html>
